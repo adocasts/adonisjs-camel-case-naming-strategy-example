@@ -4,10 +4,10 @@ ______
 This repository includes an example of how to change the default serialization naming strategy for AdonisJS from `snake_case` to `camelCase`.
 
 ### Watch & Read Lesson Here
-coming soon
+https://jagr.co/lessons/how-to-serialize-all-adonisjs-lucid-models-properties-as-camel-case
 
 ### Watch Lesson on YouTube
-coming soon
+https://www.youtube.com/watch?v=OAzvVHnsU8M
 
 ------
 
